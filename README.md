@@ -6,10 +6,6 @@ Classify handwritten digits, without ground truth, from MNIST through K-means cl
 
 Steps -
 
-Prerequisites and Preprocessing
-
-Permissions and environment variables
-
 Data ingestion
 
 Data inspection
